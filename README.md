@@ -1,2 +1,2 @@
-# AI_Nanodegree
+# AI Nanodegree
 Repository for the AI nanodegree training
