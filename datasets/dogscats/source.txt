@@ -1,2 +1,0 @@
-The dogs and cats dataset can be found hier:
-https://www.kaggle.com/c/dogs-vs-cats/overview
